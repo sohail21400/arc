@@ -1,0 +1,32 @@
+[
+    {
+        "place_name": "Kochi Bus Stand",
+        "category": "BUS_STAND",
+        "major": "1",
+        "minor": "1"
+    },
+    {
+        "place_name": "Coffee Shop",
+        "category": "COFFEE_SHOP",
+        "major": "2",
+        "minor": "1"
+    },
+    {
+        "place_name": "Forum Mall",
+        "category": "SHOPPING_MALL",
+        "major": "3",
+        "minor": "1"
+    },
+    {
+        "place_name": "Central Library",
+        "category": "LIBRARY",
+        "major": "4",
+        "minor": "1"
+    },
+    {
+        "place_name": "e-Toilet",
+        "category": "TOILET",
+        "major": "5",
+        "minor": "1"
+    }
+]

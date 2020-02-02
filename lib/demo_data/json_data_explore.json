@@ -1,0 +1,22 @@
+[
+    {
+        "owner": "Kochi Bus Stand",
+        "content": "Bus Times",
+        "category": "BUS_STAND"
+    },
+    {
+        "owner": "Coffee Shop",
+        "content": "Menu Card",
+        "category": "COFFEE_SHOP"
+    },
+    {
+        "owner": "Forum Mall",
+        "content": "Map View",
+        "category": "SHOPPING_MALL"
+    },
+    {
+        "owner": "Central Library",
+        "content": "Harry Potter",
+        "category": "LIBRARY"
+    }
+]
